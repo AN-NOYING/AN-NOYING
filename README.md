@@ -23,7 +23,7 @@
       <th>프로젝트명</th>
       <th>설명</th>
       <th>진행도</th>
-      <th>비교</th>
+      <th>비고</th>
     </tr>
   <tbody>
     <tr>
