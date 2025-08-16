@@ -49,8 +49,9 @@
 <br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="24" height="24" loading="lazy" /> 문제 해결
-
+#### 프로그래머스
 ![PROGRAMMERS](https://github.com/an-noying/github-programmers-rank/blob/master/lib/result.svg)
+#### 백준 (Solved.ac)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=annoying_kr)
 
 <br>
@@ -77,10 +78,12 @@
       <td>14회</td>
       <td></td>
       <td>
-        <a href="https://github.com/AN-NOYING/syw2plus">임진록2+</a>, 
-        <a href="https://github.com/AN-NOYING/arcturus_format">악튜러스</a>, 
+        <a href="https://github.com/bug-topia/syw2plus">임진록2+</a>, 
+        <a href="https://github.com/bug-topia/arcturus_format">악튜러스</a>, 
       </td>
-      <td></td>
+      <td>
+        <a href="https://bug-topia.github.io">바로가기</a>
+      </td>
     </tr>
   </tbody>
 </table>
